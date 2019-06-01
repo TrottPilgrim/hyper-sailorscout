@@ -1,6 +1,7 @@
 {
   "name": "hyper-sailorscout",
   "version": "0.0.1",
+  "type": "theme",
   "description": "A hyper theme based on the wonderful fairyfloss by @sailorhg and hyper-mahoushoujo by @atrnh",
   "main": "index.js",
   "repository": {
@@ -8,5 +9,9 @@
     "url": "git+https://github.com/TrottPilgrim/hyper-sailorscout.git"
   },
   "author": "Thomas Lim",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ]
 }
