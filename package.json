@@ -1,0 +1,16 @@
+{
+  "name": "hyper-fairyfloss",
+  "version": "0.0.1",
+  "description": "A theme based on the wonderful fairyfloss by @sailorhg",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrottPilgrim/hyper-fairyfloss.git"
+  },
+  "author": "Thomas Lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrottPilgrim/hyper-fairyfloss/issues"
+  },
+  "homepage": "https://github.com/TrottPilgrim/hyper-fairyfloss#readme"
+}
